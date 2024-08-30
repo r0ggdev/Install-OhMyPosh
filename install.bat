@@ -1,0 +1,1 @@
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\\Scripts\WindowsTerminalCheck.ps1"
